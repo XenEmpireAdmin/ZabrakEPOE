@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>EPOE Zabrak RacePatch</name>
+	<author>Xen</author>
+    <url></url>
+	<targetVersion>0.17.0000</targetVersion>
+	<description>EPOE 2.0 support for the Zabrak Race</description>
+</ModMetaData>
